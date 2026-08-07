@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Tabitha Macharia Banner" width="100%">
+</p> 
+
+# Hi there 👋
 
 <!--
 **TabbyMacharia/TabbyMacharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
