@@ -69,14 +69,14 @@ I believe the best way to learn technology is to build, break, understand, and b
 ### 🌐 Networking & Cybersecurity
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="50" alt="Cisco"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/cisco-packet-tracer.png" width="50" alt="Cisco Packet Tracer"/>
+  <img src="https://cdn.simpleicons.org/cisco/049FD9" width="55" alt="Cisco"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/packet-tracer.svg" width="55" alt="Cisco Packet Tracer"/>
 </p>
 
 <p align="center">
   <b>Cisco Networking</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Cisco Packet Tracer</b>
 </p>
 
@@ -85,7 +85,7 @@ I believe the best way to learn technology is to build, break, understand, and b
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" alt="GitHub"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,13 +96,13 @@ I believe the best way to learn technology is to build, break, understand, and b
 
 <p align="center">
   <b>Git</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>GitHub</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>VS Code</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>PyCharm</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Linux</b>
 </p>
 
