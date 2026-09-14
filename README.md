@@ -7,7 +7,7 @@
 <p align="center">
   Welcome to my corner of GitHub! I'm a Computer Science student who enjoys turning ideas into working systems and learning how technology comes together behind the scenes.
 
-I'm particularly interested in software development, computer networks, cybersecurity, and database systems. I enjoy experimenting with different technologies, working on practical projects, and continuously improving my skills through hands-on learning.
+I'm particularly interested in software development, computer networks, cybersecurity, database systems and data analytics. I enjoy experimenting with different technologies, working on practical projects, and continuously improving my skills through hands-on learning.
 
 I believe the best way to learn technology is to build, break, understand, and build again. 🚀
 </p>
@@ -18,6 +18,7 @@ I believe the best way to learn technology is to build, break, understand, and b
 - 🌐 Exploring computer networks
 - 🔐 Learning about cybersecurity
 - 🗄️ Working with databases and SQL
+- 📊 Exploring data and discovering insights
 - 🧩 Solving programming and technical problems
 - 📚 Learning through hands-on projects
 
