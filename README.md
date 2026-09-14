@@ -70,9 +70,9 @@ I believe the best way to learn technology is to build, break, understand, and b
 ### 📊 Data Analytics
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55" alt="Microsoft Excel"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/microsoftexcel.svg" width="55" alt="Microsoft Excel"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/powerbi.svg" width="55" alt="Power BI"/>
 </p>
 
 <p align="center">
