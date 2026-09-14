@@ -67,6 +67,24 @@ I believe the best way to learn technology is to build, break, understand, and b
   <b>MySQL & SQL</b>
 </p>
 
+### 📊 Data Analytics
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55" alt="Microsoft Excel"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" alt="Power BI"/>
+</p>
+
+<p align="center">
+  <b>Microsoft Excel</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Power BI</b>
+</p>
+
+<p align="center">
+  <i>Currently learning data cleaning, transformation, visualization, and analysis.</i>
+</p>
+
 ### 🌐 Networking & Cybersecurity
 
 <p align="center">
