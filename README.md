@@ -139,6 +139,7 @@ An academic team project that combines multiple AI techniques to explore symptom
 
 🔗 [View Repository](https://github.com/TabbyMacharia/Healthcare-Diagnostic-AI-TeamWatalii)
 
+
 ### 🎓 Student Course Registration System
 
 A collaborative Software Engineering project that applies Agile Kanban practices to the development of a web-based course registration system for students and lecturers.
