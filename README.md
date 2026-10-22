@@ -139,6 +139,17 @@ An academic team project that combines multiple AI techniques to explore symptom
 
 🔗 [View Repository](https://github.com/TabbyMacharia/Healthcare-Diagnostic-AI-TeamWatalii)
 
+### 🎓 Student Course Registration System
+
+A collaborative Software Engineering project that applies Agile Kanban practices to the development of a web-based course registration system for students and lecturers.
+
+- **My role:** Team Lead, Kanban Manager & Documentation Lead
+- **Technologies:** HTML5, CSS3, JavaScript, PHP, MySQL
+- **Project management:** Coordinated task tracking and team workflow using Trello, with GitHub for version control and collaborative development.
+- **Key features:** Student login, course browsing, course registration and dropping, registered-course viewing, and lecturer course management.
+
+🔗 [View Repository](https://github.com/TabbyMacharia/Course-Registration-System---Team-Watalii)
+
 
 <!--
 **TabbyMacharia/TabbyMacharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
