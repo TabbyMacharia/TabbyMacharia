@@ -125,6 +125,20 @@ I believe the best way to learn technology is to build, break, understand, and b
   <b>Linux</b>
 </p>
 
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on, exploring software development, artificial intelligence, and problem-solving through hands-on experience.
+
+### 🧠 Intelligent Healthcare Diagnostic Assistant
+
+An academic team project that combines multiple AI techniques to explore symptom analysis, disease prediction, and treatment recommendations.
+
+- **My role:** Team Lead, Repository & Trello Management, and Collaborative System Integration (`app.py`)
+- **Technologies:** Python, NumPy, Pandas, Scikit-learn, TensorFlow
+- **Collaboration:** Coordinated the team's repository and Trello workflow and worked with team members on system integration.
+
+🔗 [View Repository](https://github.com/TabbyMacharia/Healthcare-Diagnostic-AI-TeamWatalii)
+
 
 <!--
 **TabbyMacharia/TabbyMacharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
