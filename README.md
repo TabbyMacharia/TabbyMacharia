@@ -152,6 +152,16 @@ A collaborative Software Engineering project that applies Agile Kanban practices
 🔗 [View Repository](https://github.com/TabbyMacharia/Course-Registration-System---Team-Watalii)
 
 
+### ☕ Student Scoresheet — Java
+
+A Java application that processes student marks, calculates totals and averages, assigns grades, and generates a structured report card.
+
+- **Language:** Java
+- **Concepts:** Arrays, control statements, calculations, and conditional logic
+- **Purpose:** Practising programming fundamentals through a student performance reporting application.
+
+🔗 [View Repository](https://github.com/TabbyMacharia/STUDENT-SCORESHEET)
+
 <!--
 **TabbyMacharia/TabbyMacharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
